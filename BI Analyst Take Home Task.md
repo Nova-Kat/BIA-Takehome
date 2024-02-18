@@ -1,13 +1,13 @@
 # BI Analyst Take Home Task
 
 ### Components Used
-Google BigQuery (SQL database)
-Looker Studio (BI)
+- Google BigQuery (SQL database)
+- Looker Studio (BI)
 
 ### Repository Contents
-Overview text file
-deal_facts.sql
-deal_facts.csv
+- Overview text file
+- deal_facts.sql
+- deal_facts.csv
 
 #### deal_facts.sql
 This is the SQL used to build the deal_facts table from the deals and deal_pipeline_stages tables provided. 
